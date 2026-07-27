@@ -3,6 +3,9 @@ dist
 dist-ssr
 *.local
 .DS_Store
+*.tsbuildinfo
+vite.config.js
+vite.config.d.ts
 .vscode/*
 !.vscode/extensions.json
 npm-debug.log*
