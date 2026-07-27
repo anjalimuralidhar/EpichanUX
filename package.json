@@ -1,9 +1,9 @@
 {
-  "name": "novora",
+  "name": "epichanux",
   "private": true,
   "version": "1.4.0",
   "type": "module",
-  "description": "Novora — a lightweight team project & task management app",
+  "description": "EpichanUX — a lightweight team project & task management app",
   "scripts": {
     "dev": "vite",
     "build": "tsc --noEmit && vite build",

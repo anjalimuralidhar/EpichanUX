@@ -18,8 +18,8 @@ export default function Sidebar({
   return (
     <aside className={styles.sidebar}>
       <div className={styles.brand}>
-        <span className={styles.logo}>N</span>
-        <span className={styles.name}>Novora</span>
+        <span className={styles.logo}>E</span>
+        <span className={styles.name}>EpichanUX</span>
       </div>
       <nav className={styles.nav}>
         {items.map((item) => (

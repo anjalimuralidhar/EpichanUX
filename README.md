@@ -1,6 +1,6 @@
-# Novora
+# EpichanUX
 
-A lightweight team project & task management web app. Novora gives small teams a
+A lightweight team project & task management web app. EpichanUX gives small teams a
 single place to track projects, assign tasks, and stay on top of notifications.
 
 Built with **React + TypeScript + Vite**.

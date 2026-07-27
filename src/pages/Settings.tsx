@@ -65,7 +65,7 @@ export default function Settings() {
           />
           <SettingsRow
             title="Product news"
-            description="Occasional updates about new Novora features and improvements."
+            description="Occasional updates about new EpichanUX features and improvements."
             control={
               <Toggle
                 label="Product news"
