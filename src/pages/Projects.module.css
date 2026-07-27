@@ -1,0 +1,75 @@
+.heading {
+  font-size: 24px;
+}
+
+.subhead {
+  color: var(--text-muted);
+  margin: 6px 0 24px;
+}
+
+.table {
+  width: 100%;
+  border-collapse: collapse;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  overflow: hidden;
+}
+
+.table th,
+.table td {
+  text-align: left;
+  padding: 14px 16px;
+  border-bottom: 1px solid var(--border);
+  font-size: 14px;
+}
+
+.table th {
+  font-size: 12px;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: var(--text-muted);
+}
+
+.table tr:last-child td {
+  border-bottom: none;
+}
+
+.name {
+  font-weight: 600;
+}
+
+.badge {
+  font-size: 12px;
+  padding: 3px 10px;
+  border-radius: 999px;
+  font-weight: 600;
+}
+
+.Ontrack {
+  background: #e7f6ec;
+  color: #087443;
+}
+
+.Atrisk {
+  background: #fef3e6;
+  color: #b54708;
+}
+
+.Delayed {
+  background: #fdecec;
+  color: #b42318;
+}
+
+.bar {
+  width: 120px;
+  height: 8px;
+  border-radius: 999px;
+  background: var(--bg);
+  overflow: hidden;
+}
+
+.fill {
+  height: 100%;
+  background: var(--accent);
+}
